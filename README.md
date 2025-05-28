@@ -1,13 +1,11 @@
 [![logo]()](https://github.com/ajeebsagar/system-design-interview)
-# System Development Life Cycle
-
-![System Development Life Cycle](img/systemcycle.png)
 
 <h1 align="center">System Development Life Cycle</h1>
 
 <p align="center">
   <img src="img/systemcycle.png" alt="System Development Life Cycle" width="500"/>
 </p>
+
 
 > How to prepare system design questions for an IT company
 
