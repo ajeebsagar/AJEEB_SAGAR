@@ -1,5 +1,8 @@
-!(https://github.com/ajeebsagar/system-design-interview)
+[![logo]()](https://github.com/ajeebsagar/system-design-interview)
+# System Development Life Cycle
+
 ![System Development Life Cycle](img/systemcycle.png)
+
 <h1 align="center">System Development Life Cycle</h1>
 
 <p align="center">
